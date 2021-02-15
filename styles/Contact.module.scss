@@ -1,0 +1,32 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+#form {
+  width: 250px;
+}
+
+.status {
+  margin: 100px 0;
+}
+
+.label {
+  margin: 10px 0;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  margin: 0 10px;
+}
+
+.message {
+  height: 100px;
+}
+
+.sendWrapper {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}

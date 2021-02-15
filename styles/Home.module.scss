@@ -129,4 +129,10 @@
     width: 100%;
     flex-direction: column;
   }
+
+  .appLogo {
+    width: 250px;
+    height: 250px;
+    border-radius: calc(10 / 57 * 250px);
+  }
 }
